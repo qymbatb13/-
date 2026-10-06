@@ -39,15 +39,22 @@
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/01-login-student.png" width="200"><br>Вход</td>
-    <td align="center"><img src="screenshots/02-catalog.png" width="200"><br>Каталог с фильтрами</td>
-    <td align="center"><img src="screenshots/03-task-details.png" width="200"><br>Страница задания</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258688" src="https://github.com/user-attachments/assets/57ec7205-e781-4f37-97dc-31cedf34c198" />
+" width="200"><br>Вход</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258734" src="https://github.com/user-attachments/assets/f24a8ac9-7b18-4b67-96e9-149660e246f6" />
+" width="200"><br>Каталог с фильтрами</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258734" src="https://github.com/user-attachments/assets/2dc05052-93b9-4e0a-8443-17e90912dc7f" />
+" />
+" width="200"><br>Страница задания</td>
     <td align="center"><img src="screenshots/04-apply-dialog.png" width="200"><br>Отклик с сообщением</td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/05-task-applied.png" width="200"><br>Отклик отправлен</td>
-    <td align="center"><img src="screenshots/06-my-replies.png" width="200"><br>Мои отклики</td>
-    <td align="center"><img src="screenshots/07-student-profile.png" width="200"><br>Профиль</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258754" src="https://github.com/user-attachments/assets/2c37f958-a38b-4ef8-9e5d-5faec590b50b" />
+" width="200"><br>Отклик отправлен</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258761" src="https://github.com/user-attachments/assets/9ab16989-2ad0-4ecb-b1c3-3120943dae52" />
+" width="200"><br>Мои отклики</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258764" src="https://github.com/user-attachments/assets/78784cf7-39b4-452a-99ac-18a0d070065b" />
+" width="200"><br>Профиль</td>
     <td></td>
   </tr>
 </table>
@@ -56,10 +63,14 @@
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/08-login-employer.png" width="200"><br>Вход</td>
-    <td align="center"><img src="screenshots/09-employer-tasks.png" width="200"><br>Мои задачи</td>
-    <td align="center"><img src="screenshots/10-new-task.png" width="200"><br>Новая задача</td>
-    <td align="center"><img src="screenshots/11-employer-profile.png" width="200"><br>Профиль</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258693" src="https://github.com/user-attachments/assets/a2d770a6-3a93-418b-9dbc-59da45073ddb" />
+" width="200"><br>Вход</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258704" src="https://github.com/user-attachments/assets/01404177-4a6e-4d45-b1b8-637fdc020fe5" />
+" width="200"><br>Мои задачи</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258712" src="https://github.com/user-attachments/assets/70c45ee4-af2d-48c4-85a5-dc248558a631" />
+" width="200"><br>Новая задача</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258708" src="https://github.com/user-attachments/assets/28940744-767a-4134-b88a-4681b55d8c4c" />
+" width="200"><br>Профиль</td>
   </tr>
 </table>
 
