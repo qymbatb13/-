@@ -40,12 +40,10 @@
 <table>
   <tr>
     <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258688" src="https://github.com/user-attachments/assets/57ec7205-e781-4f37-97dc-31cedf34c198" />
-" width="200"><br>Вход</td>
+width="200"><br>Вход</td>
     <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258734" src="https://github.com/user-attachments/assets/f24a8ac9-7b18-4b67-96e9-149660e246f6" />
-" width="200"><br>Каталог с фильтрами</td>
-    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258734" src="https://github.com/user-attachments/assets/2dc05052-93b9-4e0a-8443-17e90912dc7f" />
-" />
-" width="200"><br>Страница задания</td>
+width="200"><br>Каталог с фильтрами</td>
+    <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258734" src="https://github.com/user-attachments/assets/2dc05052-93b9-4e0a-8443-17e90912dc7f" /> width="200"><br>Страница задания</td>
     <td align="center"><img src="screenshots/04-apply-dialog.png" width="200"><br>Отклик с сообщением</td>
   </tr>
   <tr>
@@ -54,7 +52,7 @@
     <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258761" src="https://github.com/user-attachments/assets/9ab16989-2ad0-4ecb-b1c3-3120943dae52" />
 " width="200"><br>Мои отклики</td>
     <td align="center"><img src="<img width="1080" height="2400" alt="Screenshot_1791258764" src="https://github.com/user-attachments/assets/78784cf7-39b4-452a-99ac-18a0d070065b" />
-" width="200"><br>Профиль</td>
+ width="200"><br>Профиль</td>
     <td></td>
   </tr>
 </table>
